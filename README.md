@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/banner.png" alt="banner"/>
+<img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/profilebanner.png" alt="banner"/>
 
 ### hi there 👋
 
