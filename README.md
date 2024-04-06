@@ -19,3 +19,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/pizzabossxd/pizzabossxd/blob/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="github-snake.svg" />
 </picture>
+
+### `｡  🎀  𝓁𝒾𝒻𝑒 𝒾𝓈 𝒷𝑒𝒶𝓊𝓉𝒾𝒻𝓊𝓁 𝒶𝓃𝒹 𝒻𝓊𝓃  🎀  ｡`
+### thanks for visiting my profile
+- u can check my website out for everything else and more stuff [https://p8.lc](https://p8.lc)
