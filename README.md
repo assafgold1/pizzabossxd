@@ -7,6 +7,7 @@
 ### any pronouns
 ### ピザボスエクスディ (my name but in japanese)
 
+## 👋 welcome aborad
 - 🔭 im currently working on Dreamcod (no questions about that pls)
 - if u wanna contact me u can on discord pizzabossxd or my email [hi@p8.lc](mailto:hi@p8.lc) 📬
 - u may refer to me by any pronouns 💜
