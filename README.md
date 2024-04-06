@@ -4,8 +4,7 @@
 
 ### hi there 👋
 
-### any pronouns
-### ピザボスエクスディ (my name but in japanese)
+### any pronouns // ピザボスエクスディ (my name but in japanese)
 
 ## 👋 welcome aborad
 - 🔭 im currently working on Dreamcod (no questions about that pls)
