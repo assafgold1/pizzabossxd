@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/tgiewitwkt_2.jpeg" alt="banner" width="350" height="500" />
+
 ### hi there 👋
 
 - 🔭 im currently working on Dreamcod (no questions about that pls)
