@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/profilebanner.png" alt="banner" height="200"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/profilebanner.png" alt="banner" height="200"/>
+</p>
 
 ### hi there 👋
 
