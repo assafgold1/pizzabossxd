@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/tgiewitwkt_2.jpeg" alt="banner" width="1000" height="200" />
+<img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/tgiewitwkt_2.jpeg" alt="banner" width="1000" height="500" />
 
 ### hi there 👋
 
