@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://spotifylistening.p8.lc/api/info/card">
-    <img src="https://spotifylistening.p8.lc/api/info/card" alt="currently listening to spotify card" />
+    <img src="https://spotifylistening.p8.lc/api/info/card?timestamp=3" alt="currently listening to spotify card" />
   </a>
 </p>
 <p align="center">
