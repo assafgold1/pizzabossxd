@@ -1,8 +1,8 @@
+<a href="https://spotifylistening.p8.lc/api/info/card">
+  <img src="https://spotifylistening.p8.lc/api/info/card" alt="currently listening to spotify card" />
+</a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/pizzabossxd/pizzabossxd/main/profilebanner.png" alt="banner" height="150"/>
-  <a href="https://spotifylistening.p8.lc/api/info/card">
-    <img src="https://spotifylistening.p8.lc/api/info/card" alt="Spotify Card" />
-  </a>
 </p>
 
 ### hi there 👋
