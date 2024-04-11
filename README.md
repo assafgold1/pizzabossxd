@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://p8.lc">
+  <a href="https://p8.lc/spotify/minimal">
     <img src="https://spotifylistening.p8.lc/api/info/card?timestamp=3" alt="currently listening to spotify card" />
   </a>
 </p>
