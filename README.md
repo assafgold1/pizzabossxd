@@ -19,6 +19,7 @@
 ### curator on musixmatch 🎶📜
 ### spotify playlist [https://open.spotify.com/playlist/48f5jl7JqXNEu0C8AeHrel](https://open.spotify.com/playlist/48f5jl7JqXNEu0C8AeHrel) 🎵
 ### i love metal, rap, hyperpop, aesthetic rap, and basically any genre out there 💘
+### married to synthwave, vaporwave, electronic music 🚀
 ### huge fan of glaive, mgk, and brakence - i make my own music too 💜
 
 ## look! a snake is eating my contributions ahhhhhh 🐍
